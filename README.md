@@ -1,2 +1,9 @@
-# react_native_calculator
-A basic calculator implemented in react native
+# React Native Calculator
+
+A very basic calculator create with `React-Native` using `create-react-native-app`
+
+# Commands
+Commands are as is for any `create-react-native-app`
+
+# Preview
+![Alt text](screenshot.jpeg?raw=true "Optional Title")
