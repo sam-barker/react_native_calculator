@@ -4,3 +4,6 @@ A very basic calculator create with `React-Native` using `create-react-native-ap
 
 # Commands
 Commands are as is for any `create-react-native-app`
+
+# Screenshot
+![Alt text](screenshot.jpg?raw=true "Optional Title")
